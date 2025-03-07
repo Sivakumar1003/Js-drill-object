@@ -36,6 +36,9 @@ This repository contains exercises focused on JavaScript object manipulation. Ea
    ```
    Replace default.js with the desired file name.
 
-### Contributing
+## Contributing
 
 Contributions are welcome! If you have additional object manipulation methods or improvements to suggest, please fork the repository and submit a pull request.
+
+## 🏆 Author
+Developed by [Sivakumar Nanchappan]
